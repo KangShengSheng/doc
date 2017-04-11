@@ -4,7 +4,6 @@ import android.content.ClipboardManager;
 import android.content.Context;
 import android.os.Build;
 
-
 public class ClipboardUtil {
 
   private static ClipboardManager mClipboardManager;
